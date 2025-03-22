@@ -36,7 +36,7 @@ A simple and stylish weather application that provides real-time weather updates
    npm run dev
    ```
 ## Deployment
-Check the full deployed project on https://final-project-weather-app-react-js-b88i.vercel.app/
+Check the full deployed project on https://final-project-weather-app-react-js-b88i.vercel.app/ To view it properly on mobile devices, run it using chrome and enable desktop mode 😊
 
 ## License
 © 2025 Your Name. All rights reserved.
