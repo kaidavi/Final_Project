@@ -35,6 +35,8 @@ A simple and stylish weather application that provides real-time weather updates
    ```sh
    npm run dev
    ```
+## Deployment
+Check the full deployed project on https://final-project-weather-app-react-js-b88i.vercel.app/
 
 ## License
 © 2025 Your Name. All rights reserved.
