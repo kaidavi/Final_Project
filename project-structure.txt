@@ -1,0 +1,37 @@
+mern-ecommerce/
+├── backend/             # Express server, API, and database
+│   ├── middleware/      # Express middleware
+│   │   └── authMiddleware.js
+│   ├── models/          # Mongoose models
+│   │   ├── productModel.js
+│   │   ├── userModel.js
+│   │   └── orderModel.js
+│   ├── routes/          # API routes
+│   │   ├── productRoutes.js
+│   │   ├── userRoutes.js
+│   │   └── orderRoutes.js
+│   ├── utils/           # Utility functions
+│   │   └── generateToken.js
+│   ├── server.js        # Express app
+│   └── package.json     # Backend dependencies
+├── frontend/            # Next.js frontend
+│   ├── app/             # Next.js app directory
+│   │   ├── page.jsx
+│   │   ├── layout.jsx
+│   │   ├── globals.css
+│   │   ├── products/
+│   │   │   └── page.jsx
+│   │   └── cart/
+│   │       └── page.jsx
+│   ├── components/      # React components
+│   │   ├── header.jsx
+│   │   ├── footer.jsx
+│   │   ├── product-card.jsx
+│   │   └── ... (other components)
+│   ├── services/        # API services
+│   │   └── api.js
+│   └── package.json     # Frontend dependencies
+├── package.json         # Root package.json for scripts
+├── .gitignore
+└── README.md
+
