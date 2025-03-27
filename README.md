@@ -153,3 +153,5 @@ Contributions are welcome! If you’d like to improve the project, please fork t
 
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
+## Full project
+View the full project here  https://v0-mern-e-commerce-app-pied.vercel.app/
