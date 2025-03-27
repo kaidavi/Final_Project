@@ -1,4 +1,4 @@
-# MERN E-Commerce Application
+# BIZTECH
 
 A full-stack e-commerce application built with the MERN stack (MongoDB, Express, React, Node.js). This project provides a complete online shopping platform with product listings, shopping cart functionality, user authentication, and order processing.
 
