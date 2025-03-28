@@ -155,3 +155,6 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## Full project
 View the full project here  https://v0-mern-e-commerce-app-0x.vercel.app/
+
+## Pitch Deck
+https://www.canva.com/design/DAGYgWhPLBk/C9i5S2lp5-I8LR3-XJepGg/edit
