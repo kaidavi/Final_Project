@@ -28,7 +28,7 @@ export default function Header() {
               {mobileMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
             </Button>
             <Link href="/" className="text-xl font-bold">
-              MERN Shop
+              DUKA
             </Link>
           </div>
 
